@@ -15,9 +15,8 @@
   </a>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudeore0928)]([https://solved.ac/profile/rudeore0928](https://solved.ac/profile/rudeore0928))
-<div align=left> 
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudeore-098b&layout=compact&langs_count=10&bg_color=45,283048,859398&title_color=ffffff&text_color=ffffff&hide_border=False" />
+  </a>
 </div>
