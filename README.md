@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://rudeor0928.notion.site/text-Wonseok-s-Profile-546bbfcce06e43359684b75cee4228ef?pvs=4">
     <img
-      src="https://img.shields.io/badge/?notion-000000style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/?Notion-000000style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Instagram-FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
