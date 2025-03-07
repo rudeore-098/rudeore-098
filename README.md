@@ -14,7 +14,8 @@
     <img src="https://img.shields.io/badge/Instagram-FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
+<br>
+<br>
 <div align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudeore-098&layout=compact&langs_count=10&bg_color=45,ec008c,fc6767&title_color=ffffff&text_color=ffffff&hide_border=False" />
